@@ -5,14 +5,14 @@ LI based tool to track location and more info of mobile numbers
 
 # Installation:
      1. For Linux Users:
-        a) git clone https://github.com/Zerohacking2022/numverify2022.git
-        b) cd numverify2022
+        a) git clone https://github.com/Zerohacking2022/scanning-number2022.git
+        b) cd scanning-number2022
         c) python3 number.py
         
      2. For Windows Users:
         a) Download python3 on windows and install it
-        b) git clone https://github.com/Zerohacking2022/numverify2022.git
-        c) cd numverify2022
+        b) git clone https://github.com/Zerohacking2022/scanning-number2022.git
+        c) cd scanning-number2022
         d) python number.py
         
 # Features:-
